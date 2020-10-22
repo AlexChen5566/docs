@@ -1,0 +1,21 @@
+﻿{
+  "items": [
+    {
+      "text": "SA Documents",
+      "items": [
+        {
+          "text": "Get started",
+          "path": "SA/Index.md"
+        }
+      ]
+    },
+    {
+      "text": "How to Contribute",
+      "path": "Contribute.md"
+    },
+    {
+      "text": "MD Extension Examples",
+      "path": "MD_Extension_Examples/Index.md"
+    }
+  ]
+}
